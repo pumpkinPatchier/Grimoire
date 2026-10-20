@@ -1,0 +1,23 @@
+Spell: Good Spell
+level 3 - evocation (ritual)
+Casting Time: 1 action
+Range: 3 feet line
+Components: V, S, M (a pinch of pixie dust)
+Duration: 2 minutes
+This is an example of a good spell, aka one that fits the template.  I use this file and its spells for testing good and non-broken input.
+
+Spell: Rulebreaker
+level 1 - coolkidSchool (ritual)
+Casting Time: 1 action
+Range: Self
+Components: V
+Duration: Forever
+This spell is an example of bending the rules a bit and using non-typical parameters that you can't use in the typical canon-compliant spell-creation wizard (custom school).  Unfortunately, the regex search doesn't handle spell levels outside of 1-digit, so that's one thing that'll stay.  Custom schools though are all you really need for homebrew or incorporating expansion packs into your game, so it fulfils all PRACTICAL uses.
+
+Spell: Batman
+level 9 - transmutation
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (one bat wing)
+Duration: Forever
+This spell turns you into Batman.  That's it.  It's permanent though, so be careful on whether or not you actually want to become batman... it's a big responsibility.  Survival of parents not guaranteed :(
