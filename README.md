@@ -26,7 +26,7 @@ java Main.java
 I have never used Java on Windows or Mac so you are on your own for this one.
 
 ## Motivation
-This project demonstrates an understanding of data structures, classes, object-oriented programming, sorting algorithms, file handling, error handling, command-line interfacing, regular expressions, ANSI escape code, and et cetera.
+This project demonstrates an understanding of data structures, classes, object-oriented programming, sorting algorithms, file handling, error handling, command-line interfacing, regular expressions, ANSI escape code, and more.
 
 I created this many years ago for a school project. I remember racing to finish this before the "early-due-date" in order to get a bonus 5% for my overall grade. I ended up getting a 105% mark in the course, which my 3rd year CS highschool teacher noted was the only time that has happened before and personally apologized for the fact that it was impossible to print on the report card.
 
